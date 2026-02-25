@@ -92,4 +92,4 @@ function rainbow(div, text){
 }
 
 const txt = document.getElementById('test');
-rainbow(txt, '© 2024 | Developed By Glenn Loterte Tabalde');
+rainbow(txt, '© 2026 | Developed By Glenn Loterte Tabalde');
